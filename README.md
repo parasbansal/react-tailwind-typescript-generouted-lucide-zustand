@@ -7,11 +7,12 @@ This project uses many tools like:
 - [Vite](https://vitejs.dev)
 - [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
-- [Vitest](https://vitest.dev)
-- [Testing Library](https://testing-library.com)
 - [Tailwindcss](https://tailwindcss.com)
 - [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)
+- [Generouted](https://github.com/oedotme/generouted)
+- [Lucide](https://lucide.dev/icons/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
 
 ### Getting Started
 
